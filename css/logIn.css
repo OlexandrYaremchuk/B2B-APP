@@ -1,0 +1,70 @@
+.inputform {
+   
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: center;
+    width: 220px;
+    height: 20px;
+    border: none;
+    border-bottom: 1px solid rgb(211, 208, 208);
+}
+
+.form p {
+    margin-left: 12px;
+    padding: 0px;
+    margin-bottom: 0px;
+    color: #3d8af7;
+    font-weight: 700;
+    font-size: 14px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS',
+        sans-serif;
+}
+.newpassword a {
+    margin-left: 12px;
+    color: tomato;
+}
+.newpassword {
+    margin-top: 18px;
+    margin-bottom: 38px;
+    color: gray;
+}
+.inputform:active {
+    border: 1px solid rgb(49, 108, 218);
+}    
+
+ .input-password {
+    /* width: 2px;
+    color: gray;
+    background-image: url(/image/3844476-eye-see-show-view-watch_110339.svg); */
+ margin-bottom: 12px;
+}
+.checkbox{
+color: tomato;
+font-size: 16px;
+border: 2px solid rgb(49, 108, 218);
+}
+.checkbox:checked{
+border: 1px solid rgb(49, 108, 218);
+cursor: pointer;
+}
+.input-chekbox{
+    margin-bottom: 26px;
+    font-size: 14px;
+}
+
+.input-chekbox a{
+    
+    color: tomato;
+    text-decoration: none;
+    
+}
+.input-chekbox{
+    display: flex;
+flex-direction: row;
+}
+.input-chekbox p{
+    width: 230px;
+    margin: -3px 0px 0px 5px;
+font-size: 12px;
+}

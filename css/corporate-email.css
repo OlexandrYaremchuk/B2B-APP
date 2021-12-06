@@ -1,0 +1,15 @@
+.main-corporate-email {
+    display: flex;
+    justify-content: center;
+    margin-top: 45px;
+    font-size: 23px;
+    margin-bottom: 12px;
+    color: rgb(57, 57, 58);
+}
+.second-corporate-email {
+    margin-bottom: 36px;
+    color: rgb(96, 96, 97);
+}
+.last-form{
+    margin-bottom: 32px;
+}
